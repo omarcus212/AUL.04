@@ -7,9 +7,9 @@
 }
 body{
 /* largura*/
-    width: 100vh;
+    width: 100vw;
 /*altura*/
-    height: 100vw;
+    height: 100vh;
 /*inserir imagen do fundo*/
     background-image: url(background.png);
 /*permiti que nao repita a imagen do fundo*/
@@ -22,5 +22,52 @@ body{
     background-color: #00000080;
 /*background-blend-mode ajuda a background tonalizar a imagem de fundo (background imagem)*/
     background-blend-mode: darken;
+/**/
+    display: flex;
+/*ajuda a centralizar*/
+    justify-content: center;
+/**/
+    align-items: center;
 }
+
+main{
+/*ajuda a colorir a clss escolhida */
+   background-color:#00000100;
+/*propiadeda validas,sla não entedi*/
+   display: flex;
+/*perdi*/
+  flex-direction: column;
+/*ajudar a centraliza*/
+  justify-content: center;
+/*aling-items*/
+  align-items: center;
+/*gap*/
+  gap: 20px;
+
+  /*aparti daqui não sei mais de nada*/
+}
+h1{
+
+    font-size: 50px;
+    color:#FFFF;
+    font-family: 'montserrat', sans-serif;
+    font-weight: 400;
+}
+.descriçao{
+    font-size: 50px;
+    color:#FFFF;
+    font-style: italic;
+    font-family:'montserrat', sans-serif;
+}
+#learn-more{
+
+width: 150px;
+height: 40px;
+background-color:yellow;
+border-style: none;
+border-radius: 5px 5px 5px 5px ;
+cursor: pointer;
+margin-top: 20px;
+}
+
  

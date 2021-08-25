@@ -1,0 +1,26 @@
+/*reset-padronizar tudo, sla vei */
+*{
+
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+/* largura*/
+    width: 100vh;
+/*altura*/
+    height: 100vw;
+/*inserir imagen do fundo*/
+    background-image: url(background.png);
+/*permiti que nao repita a imagen do fundo*/
+    background-repeat: no-repeat;
+/*faz com que a imagem acompanhe a minimização da telinha mexendo*/
+    background-size: cover;
+/**/
+    background-position:center ;
+/*insirir cor no background*/
+    background-color: #00000080;
+/*background-blend-mode ajuda a background tonalizar a imagem de fundo (background imagem)*/
+    background-blend-mode: darken;
+}
+ 

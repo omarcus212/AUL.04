@@ -7,7 +7,7 @@ PRIMEIRO PAGINA WEB CRIADA EM : [SENAI JANDIRA](https://www.sp.senai.br/)
 São paginas com foco principal de atrair os visitantes. essa pagina de conversão possuem poucos elementos comparado a uma pagina tradicional.
 
 # WebSite
-O site pode ser aceesado pelo link : [Marcus vinnicius](https://github.com/omarcus212/AUL.04)
+O site pode ser aceesado pelo link : [Marcus vinnicius](https://omarcus212.github.io/AUL.04/)
 
 # Tecnologia
 HTML ,

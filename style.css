@@ -11,7 +11,7 @@ body{
 /*altura*/
     height: 100vh;
 /*inserir imagen do fundo*/
-    background-image: url(background.png);
+    background-image: url(gs4.gif);
 /*permiti que nao repita a imagen do fundo*/
     background-repeat: no-repeat;
 /*faz com que a imagem acompanhe a minimização da telinha mexendo*/
@@ -61,11 +61,11 @@ h1{
 }
 #learn-more{
 
-width: 150px;
-height: 40px;
-background-color:yellow;
+width: 20vw;
+height: 6vh;
+background-color:#8B008B;
 border-style: none;
-border-radius: 5px 5px 5px 5px ;
+border-radius: 6px 6px 6px 6px ;
 cursor: pointer;
 margin-top: 20px;
 }
